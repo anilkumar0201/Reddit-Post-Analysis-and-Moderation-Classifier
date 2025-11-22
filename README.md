@@ -172,14 +172,3 @@ For sexual ambiguity:
 * Hit only if rule-based filter fails
 
 **Final Accuracy **: **91%**
-
-
-
-
-
-
-
-
-
-
-Just tell me — I will create everything.
